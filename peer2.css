@@ -1,0 +1,116 @@
+html {
+font-family: "Avenir Next";
+width: 1200px;
+
+}
+
+body {
+  border: none;
+  background-color: #B0C4DE;
+}
+
+
+body header {
+  border: none;
+  width: 400px;
+  margin: auto;
+}
+
+header {
+  position: relative;
+  width: 400px;
+  margin: auto;
+}
+
+header h1 {
+  text-align: center;
+}
+
+nav {
+  border: none;
+  width: 400px;
+  margin: auto;
+}
+
+nav ul li {
+padding: 2px;
+margin: auto;
+}
+
+main {
+  margin-top: 10px;
+  border: none;
+}
+
+main article header {
+  border: none;
+  margin: auto;
+  padding-top: 40px;
+  text-align: center;
+}
+
+article {
+  border: none;
+}
+
+
+.menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.menu li {
+  float: left;
+
+}
+
+.menu li a {
+  display: block;
+  padding: 5px 5px 5px 5px;
+  text-decoration: none;
+  color: #191970;
+}
+
+.menu li a:hover {
+ color: blue;
+}
+
+section {
+  border: none;
+  position: relative;
+  float: left;
+  width: 50%;
+  margin: 20px;
+}
+
+aside {
+  border: none;
+  position: relative;
+  float: right;
+  width: 500px;
+  margin: 20px 0px;
+
+}
+
+aside header h1 {
+  text-align: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 10px;
+  text-align: right;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #191970;
+}
+
+footer {
+  position:relative;
+  text-align: center;
+  clear:both;
+}
